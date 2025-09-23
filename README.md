@@ -29,7 +29,7 @@ Diabetes_detection.ipynb   # Jupyter Notebook containing the full pipeline
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Diabetes-Detection-ML.git
+   git clone https://github.com/princek9109/Diabetes-Detection-ML.git
    cd Diabetes-Detection-ML
    ```
 2. Install dependencies:
